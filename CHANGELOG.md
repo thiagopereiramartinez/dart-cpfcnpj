@@ -1,6 +1,6 @@
-## 1.0.1
-- Pequenas correções
+## 1.0.3
+- Correção no link do repositório
 
-## 1.0.0
+## 1.0.2
 
 - Versão inicial
